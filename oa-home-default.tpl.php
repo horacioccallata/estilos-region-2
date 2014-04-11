@@ -4,32 +4,36 @@
  * Template for Default Home page panel.
  */
 ?>
+
+<body>
+<link rel="stylesheet" type="text/css" href="oa_home_default">
+
 <div class="big-wrapper">
   <div class="hero">
     <div class="hero-left-graphic"></div><!--/hero-right-graphic-->
     <div class="hero-right-graphic"></div><!--/hero-right-graphic-->
     <!-- <h1>Potente, Flexible, Abierto</h1> -->
     <h1>Bienvenido a la intranet del <strong>GRT</strong></h1>
-    <h2>Bienvenido <?php if (!empty($username)) {print '<span>' . $username . '</span>'; } ?> a Open Atrium 2!</h2>
-    <h3>What's next?  Dive in or check out some resources.</h3>
+    <h2>Bienvenido <?php if (!empty($username)) {print '<span>' . $username . '</span>'; } ?></h2>
+    <h3 id="h3"><strong>¿Qué sigue? Sumérgete en o echa un vistazo a algunos de los recursos.</strong></h3>
   </div><!--/hero-->
 
   <div class="modules">
 
   <?php if (!empty($login)): ?>
     <div class="entry">
-      <div class="module-header"><h4>just getting started?</h4></div><!--/module-header-->
+      <div class="module-header"><h4>acaba de empezar?</h4></div><!--/module-header-->
       <div class="module-content">
         <a href="http://docs.openatrium.com/" class="icon icon-documentation"></a>
-        <p>Read <a href="http://docs.openatrium.com/">documentation</a> to help you get going with Open Atrium, or Visit the open source <a href="https://drupal.org/project/openatrium">Open Atrium project</a> at <a href="https://drupal.org">drupal.org.</a></p>
+        <p>Read <a href="http://docs.openatrium.com/">documentacion</a> para ayudarle a ponerse en marcha con Open Atrium, o visite el código abierto <a href="https://drupal.org/project/openatrium">Open Atrium project</a> at <a href="https://drupal.org">drupal.org.</a></p>
       </div><!--/module content-->
     </div><!--/entry-->
   <?php else: ?>
     <div class="entry">
-      <div class="module-header"><h4>got issues?</h4></div><!--/module-header-->
+      <div class="module-header"><h4>Problemas conseguidos?</h4></div><!--/module-header-->
       <div class="module-content">
         <a href="https://drupal.org/project/openatrium" class="icon icon-got-issues"></a>
-        <p>Visit the open source <a href="https://drupal.org/project/openatrium">Open Atrium project</a> at <a href="https://drupal.org">drupal.org.</a></p>
+        <p>Visite el código abierto <a href="https://drupal.org/project/openatrium">Open Atrium proyecto</a> a <a href="https://drupal.org">drupal.org.</a></p>
       </div><!--/module content-->
     </div><!--/entry-->
   <?php endif; ?>
@@ -40,19 +44,19 @@
     </div>
   <?php else: ?>
     <div class="entry">
-      <div class="module-header"><h4>just getting started?</h4></div><!--/module-header-->
+      <div class="module-header"><h4>acaba de empezar</h4></div><!--/module-header-->
       <div class="module-content">
         <a href="http://docs.openatrium.com/" class="icon icon-documentation"></a>
-        <p>Read <a href="http://docs.openatrium.com/">documentation</a> to help you get going with Open Atrium.</p>
+        <p>Leer <a href="http://docs.openatrium.com/">documentación</a> para ayudar a ponerse en marcha con Open Atrium.</p>
       </div><!--/module content-->
     </div><!--/entry-->
   <?php endif; ?>
 
     <div class="entry entry-last">
-      <div class="module-header"><h4>need the pros?</h4></div><!--/module-header-->
+      <div class="module-header"><h4>necesitan los profesionales?</h4></div><!--/module-header-->
       <div class="module-content">
         <a href="http://www.phase2technology.com/contact-us/start-a-project-with-phase2/" class="icon icon-pros"></a>
-        <p>Find <a href="http://www.phase2technology.com/contact-us/start-a-project-with-phase2/">Best-in-Class Professional Services</a> to build out your Open Atrium solution.</p>
+        <p>Find <a href="http://www.phase2technology.com/contact-us/start-a-project-with-phase2/">Best-in-Class Servicios profesionales</a> para construir su solución Open Atrium.</p>
       </div><!--/module content-->
     </div><!--/entry-->
 
@@ -64,3 +68,6 @@
   </div><!--/subfooter-->
 
 </div><!--/big wrapper-->
+
+</body>
+
