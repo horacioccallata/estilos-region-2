@@ -59,25 +59,29 @@
         <p>Find <a href="http://www.phase2technology.com/contact-us/start-a-project-with-phase2/">Best-in-Class Servicios profesionales</a> para construir su solución Open Atrium.</p>
       </div><!--/module content-->
     </div><!--/entry-->
-    <div class="entry entry-last">
-      <div class="module-header"><h4>necesitan los profesionales?</h4></div><!--/module-header-->
+
+     <div class="entry">
+      <div class="module-header"><h4>Directivas 2003-2014</h4></div><!--/module-header-->
       <div class="module-content">
-        <a href="http://www.phase2technology.com/contact-us/start-a-project-with-phase2/" class="icon icon-pros"></a>
-        <p>Find <a href="http://www.phase2technology.com/contact-us/start-a-project-with-phase2/">Best-in-Class Servicios profesionales</a> para construir su solución Open Atrium.</p>
+        <a href="http://192.168.1.105/normas/DIRECTIVAS%202012.html" class="icon icon-documentation"></a>
+        <p>Leer <a href="http://192.168.1.105/normas/DIRECTIVAS%202012.html">Documentacion </a>comentarios</p>
       </div><!--/module content-->
-    </div><!--/entry--><div class="entry entry-last">
-      <div class="module-header"><h4>necesitan los profesionales?</h4></div><!--/module-header-->
+    </div><!--/entry--> <div class="entry">
+      <div class="module-header"><h4>Reglamentos 2003-2014</h4></div><!--/module-header-->
       <div class="module-content">
-        <a href="http://www.phase2technology.com/contact-us/start-a-project-with-phase2/" class="icon icon-pros"></a>
-        <p>Find <a href="http://www.phase2technology.com/contact-us/start-a-project-with-phase2/">Best-in-Class Servicios profesionales</a> para construir su solución Open Atrium.</p>
+        <a href="http://192.168.1.105/normas/reglamentos%202012.html" class="icon icon-documentation"></a>
+        <p>Leer <a href="http://192.168.1.105/normas/reglamentos%202012.html">documentación</a> comentarios.</p>
       </div><!--/module content-->
-    </div><!--/entry--><div class="entry entry-last">
-      <div class="module-header"><h4>necesitan los profesionales?</h4></div><!--/module-header-->
+    </div><!--/entry--> <div class="entry">
+      <div class="module-header"><h4>Documentos de Gestión 2003-2014</h4></div><!--/module-header-->
       <div class="module-content">
-        <a href="http://www.phase2technology.com/contact-us/start-a-project-with-phase2/" class="icon icon-pros"></a>
-        <p>Find <a href="http://www.phase2technology.com/contact-us/start-a-project-with-phase2/">Best-in-Class Servicios profesionales</a> para construir su solución Open Atrium.</p>
+        <a href="http://192.168.1.105/normas/MANUALES%202012.html" class="icon icon-documentation"></a>
+        <p>Leer <a href="http://192.168.1.105/normas/MANUALES%202012.html">documentación</a> comentarios</p>
       </div><!--/module content-->
     </div><!--/entry-->
+  
+    
+    
 
   </div><!--/modules-->
 
